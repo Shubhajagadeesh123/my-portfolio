@@ -162,7 +162,7 @@ export default function Contact() {
           Or reach me directly:
           <div className="mt-2 flex flex-wrap gap-4">
             <a href="mailto:shubhajagadeesh155@gmail.com" className="text-indigo-600 hover:underline">shubhajagadeesh155@gmail.com</a>
-            <a href="https://www.linkedin.com/in/shubha-jagadeesh" target="_blank" rel="noreferrer" className="text-indigo-600 hover:underline">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/shubha-jagadeesh-b441842a9?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" rel="noreferrer" className="text-indigo-600 hover:underline">LinkedIn</a>
             <a href="https://github.com/Shubhajagadeesh123" target="_blank" rel="noreferrer" className="text-indigo-600 hover:underline">GitHub</a>
           </div>
         </div>
