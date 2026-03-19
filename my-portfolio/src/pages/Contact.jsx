@@ -13,7 +13,7 @@ const WEB3FORMS_ACCESS_KEY = "dbf948f3-5f0e-4ff6-a0ac-608a14ac8a34";
  * (you uploaded ShubhaKJ_Resume.pdf to public/)
  * This is the path the live site will serve the file from.
  */
-const resumeUrl = "/ShubhaK.J_Resume.pdf";
+const resumeUrl = "/ShubhaKJ_Resume.pdf";
 
 export default function Contact() {
   const [formData, setFormData] = useState({

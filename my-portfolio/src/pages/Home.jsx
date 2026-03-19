@@ -109,7 +109,7 @@ export default function Home() {
             </div>
            <div className="flex gap-3">
               <a
-                href="/ShubhaK.J_Resume.pdf"
+                href="/ShubhaKJ_Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-5 py-2.5 rounded-full bg-indigo-600 text-white text-sm font-medium hover:bg-indigo-700 transition"
@@ -118,8 +118,8 @@ export default function Home() {
               </a>
 
               <a
-                href="/ShubhaK.J_Resume.pdf"
-                download="ShubhaK.J_Resume.pdf"
+                href="/ShubhaKJ_Resume.pdf"
+                download="/ShubhaKJ_Resume.pdf"
                 className="px-5 py-2.5 rounded-full border border-indigo-600 bg-white text-indigo-600 text-sm font-medium hover:bg-indigo-50 transition"
               >
                 Download Resume
